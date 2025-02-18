@@ -1,1 +1,1 @@
-# New-
+print("Hello GitHub")
